@@ -1,0 +1,18 @@
+
+        table, th, td {
+          border: 1px solid black;
+        }
+        .jumbotron {
+            background-color: #e60000;
+            
+        }
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+        #gmap_canvas img {
+            max-width: none !important;
+            background: none !important
+        }
+        
+        
